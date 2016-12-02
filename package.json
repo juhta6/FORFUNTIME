@@ -1,0 +1,7 @@
+{
+  "title": "FOR FUN TIME",
+  "main": "src/FORFUNTIME.js",
+  "dependencies": {
+    "tabris": "^1.7.0"
+  }
+}
